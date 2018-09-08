@@ -7,4 +7,7 @@ Penggunaan Git
 - Buat Repository
 - Copy alamat SSH
 - Clone dengan git clone <alamat ssh>
-
+- Ubah File
+- Tambahkan file yang di ubah dengan perintah git add
+- Simpan Perubahan dengan git commit
+- Kirim Perubahan ke github dengan git push
