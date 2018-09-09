@@ -14,7 +14,7 @@ Penggunaan Git
 
 ## Menggunakan Pycharm
 
-- Gunakan Pycharm terkini. download di situs nya
+- Gunakan Pycharm terkini. download di situs nya di http://jetbrains.com
 - Membuka Project yang sudah di clone di command
 - Merubah File
 - MengirimFIle Ke Github
