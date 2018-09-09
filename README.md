@@ -18,3 +18,11 @@ Penggunaan Git
 - Merubah File
 - MengirimFIle Ke Github
 - Mem-pull di local
+
+## Menggunakan Git Team
+- Mulai Bekerja dengan Melihat issues
+- Bekerja tidak pada master, melainkan branch tersendiri
+- push branch baru tsb (melakukan push jika sudah ada commit)
+- Mengubah kode pada branch
+- mengcommit kode
+- mempush branch tersebut
