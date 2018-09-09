@@ -17,3 +17,4 @@ Penggunaan Git
 - Membuka Project yang sudah di clone di command
 - Merubah File
 - MengirimFIle Ke Github
+- Mem-pull di local
