@@ -18,3 +18,7 @@ Penggunaan Git
 - Merubah File
 - MengirimFIle Ke Github
 - Mem-pull di local
+
+## Kesimpulan
+- Dengan git da Github kode akan aman dari hdd rusak
+- Memiliki repository Github yang public, akan menjadikan repository tsb sbg portofolio
