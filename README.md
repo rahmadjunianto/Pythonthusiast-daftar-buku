@@ -19,6 +19,14 @@ Penggunaan Git
 - MengirimFIle Ke Github
 - Mem-pull di local
 
+## Menggunakan Git Team
+- Mulai Bekerja dengan Melihat issues
+- Bekerja tidak pada master, melainkan branch tersendiri
+- push branch baru tsb (melakukan push jika sudah ada commit)
+- Mengubah kode pada branch
+- meng-commit kode dan review perubahan pada file terlebih dahulu
+- mem-push branch tersebut
+
 ## Kesimpulan
 - Dengan git da Github kode akan aman dari hdd rusak
 - Memiliki repository Github yang public, akan menjadikan repository tsb sbg portofolio
