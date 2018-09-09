@@ -28,6 +28,9 @@ Penggunaan Git
 - meng-commit kode dan review perubahan pada file terlebih dahulu
 - mem-push branch tersebut
 
+## Instalasi Git
+- Menggunakan linux cukup dg apt instal git
+- Menggunakan Windows, dg mendownload di git
 ## Kesimpulan
 - Dengan git da Github kode akan aman dari hdd rusak
 - Memiliki repository Github yang public, akan menjadikan repository tsb sbg portofolio
