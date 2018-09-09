@@ -11,3 +11,9 @@ Penggunaan Git
 - Tambahkan file yang di ubah dengan perintah git add
 - Simpan Perubahan dengan git commit
 - Kirim Perubahan ke github dengan git push
+
+## Menggunakan Pycharm
+
+- Membuka Project yang sudah di clone di command
+- Merubah File
+- MengirimFIle Ke Github
