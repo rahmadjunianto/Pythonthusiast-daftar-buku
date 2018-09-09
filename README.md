@@ -24,5 +24,5 @@ Penggunaan Git
 - Bekerja tidak pada master, melainkan branch tersendiri
 - push branch baru tsb (melakukan push jika sudah ada commit)
 - Mengubah kode pada branch
-- mengcommit kode
-- mempush branch tersebut
+- meng-commit kode dan review perubahan pada file terlebih dahulu
+- mem-push branch tersebut
